@@ -8,7 +8,6 @@
   </a>  
 </p>
 
-<br />
 
 - 🌱 I’m currently learning **Deep Learning, Python...**
 - 🔭 I'm currently a postgraduate student in **Hangzhou Dianzi Universit**
