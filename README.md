@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://weibo.com/u/3927244243">
-  <img align="left" alt="yang7hi | weibo" width="22px" src="https://github.com/Yongdream/Yongdream/blob/main/icon/wb.png" />
+  <img align="center" alt="yang7hi | weibo" width="22px" src="https://github.com/Yongdream/Yongdream/blob/main/icon/wb.png" />
   </a>  
 </p>
 
