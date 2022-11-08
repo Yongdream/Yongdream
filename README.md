@@ -2,7 +2,7 @@
 <h3 align="center">Welcome to my GitHub !</h3>
 
 <a href="https://weibo.com/u/3927244243">
-  <img align="left" alt="yang7hi | weibo" width="22px" src="../Yongdream/icon/weibo.svg" />
+  <img align="left" alt="yang7hi | weibo" width="22px" src="https://github.com/Yongdream/Yongdream/blob/main/icon/weibo.svg" />
 </a>
 
 <br />
