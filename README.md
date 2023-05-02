@@ -16,7 +16,7 @@
 </p>
 
 
-- 🌱 I’m currently learning **Deep Learning, Python...**
+- 🌱 I’m currently learning **Deep Learning, Python, Battery Fault Diagnosis...**
 - 🔭 I'm currently a postgraduate student in **Hangzhou Dianzi Universit**
   
 - ## ✨**Github Stats:**
