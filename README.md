@@ -19,7 +19,7 @@
 - 🌱 I’m currently learning **Deep Learning, Python...**
 - 🔭 I'm currently a postgraduate student in **Hangzhou Dianzi Universit**
   
-- ## **✨Github Stats:**
+- ## ✨**Github Stats:**
 <p align="center">
     <!-- <a href="https://github.com/abhinandanraj"> -->
         <img  src="https://github-readme-stats.vercel.app/api?username=yongdream&hide=contribs,issues&count_private=true">
