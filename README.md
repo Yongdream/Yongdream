@@ -20,16 +20,16 @@
 - 🔭 I'm currently a postgraduate student in **Hangzhou Dianzi Universit**
   
 - ## ✨**Github Stats:**
-<p align="center">
-    <!-- <a href="https://github.com/abhinandanraj"> -->
-        <img  src="https://github-readme-stats.vercel.app/api?username=yongdream&hide=contribs,issues&count_private=true">
-    <!-- </a> -->
-    
-</p>
-<p align="center">
-    
-</p>
+<div style="display: flex; justify-content: center;">
+    <div style= "height: 200px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=yongdream&hide=contribs,issues&count_private=true" style="width: 100%; height: 100%;">
+    </div>
+    <div style=" height: 200px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yongdream&layout=compact" style="width: 100%; height: 100%;">
+    </div>
+</div>
 
 <p align = 'center'> <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
+
 
 
