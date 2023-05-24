@@ -20,7 +20,7 @@
 - 🔭 I'm currently a postgraduate student in **Hangzhou Dianzi Universit**
   
 - ## ✨**Github Stats:**
-<div style="display: flex; justify-content: center; ">
+<div align="center">
     <div style= "height: 50px;">
         <img src="https://github-readme-stats.vercel.app/api?username=yongdream&hide=contribs,issues&count_private=true&line_height=20" >
     </div>
