@@ -22,10 +22,10 @@
 - ## ✨**Github Stats:**
 <div style="display: flex; justify-content: center; ">
     <div style= "height: 50px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=yongdream&hide=contribs,issues&count_private=true" >
+        <img src="https://github-readme-stats.vercel.app/api?username=yongdream&hide=contribs,issues&count_private=true&line_height=20" >
     </div>
     <div style=" height: 50px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yongdream&layout=compact" >
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yongdream&layout=compact&line_height=20" >
     </div>
 </div>
 
