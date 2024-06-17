@@ -19,16 +19,27 @@
 </p>
 
 
-- 🌱 I’m currently learning **Deep Learning, Python, Battery Fault Diagnosis...**
+- 🌱 I’m currently learning **C/C++, Deep Learning, Python, Battery Fault Diagnosis...**
 - 🔭 I'm currently a postgraduate student in **Hangzhou Dianzi Universit**
   
-- ## ✨**Github Stats:**
+## ✨**Github Stats:**
 <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=yongdream&hide=contribs,issues&count_private=true&line_height=23" >
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yongdream&layout=compact&line_height=20" >
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=yongdream&hide=contribs,issues&count_private=true&line_height=23&hide_border=true" height="195">
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yongdream&layout=compact&line_height=20&hide_border=true" height="195">
+      </td>
+    </tr>
+  </table>
 </div>
 
-<p align = 'center'> <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
+<p align='center'>
+  <img src='https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/>
+</p>
+
 
 
 
