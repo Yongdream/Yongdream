@@ -14,7 +14,7 @@
   src="https://github.com/Yongdream/Yongdream/blob/main/icon/Galaxy.svg" />
   </a>
   <a href="https://space.bilibili.com/273706320?spm_id_from=333.1007.0.0">
-    <img align="center" alt="yang7hi | bilibili" width="22px" src="https://github.com/Yongdream/Yongdream/blob/main/icon/bilibili.png" />
+    <img align="center" alt="yang7hi | bilibili" width="22px" src="https://github.com/Yongdream/Yongdream/blob/main/icon/blbl.svg" />
   </a>
 </p>
 
