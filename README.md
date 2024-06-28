@@ -27,10 +27,10 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Yongdream&hide=contribs,issues&line_height=23&hide_border=true" height="160">
+        <img src="https://github-readme-stats.vercel.app/api?username=Yongdream&hide=contribs,issues&count_private=true&line_height=23&hide_border=true" height="160">
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yongdream&layout=compact&line_height=20&hide_border=true" height="160">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yongdream&layout=compact&line_height=23&hide_border=true" height="160">
       </td>
     </tr>
   </table>
